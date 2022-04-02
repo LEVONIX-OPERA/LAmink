@@ -14,7 +14,11 @@ cls
 color 9f
 echo WELCOME 
 ping localhost -n 2 >nul
+cls
 echo WELCOME TO
 ping localhost -n 2 >nul
 cls
-echo WELCOME TO 
+echo WELCOME TO LAmink
+ping localhost -n 5 >nul
+cls
+pause
